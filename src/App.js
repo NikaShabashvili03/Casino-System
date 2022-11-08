@@ -37,7 +37,7 @@ function App() {
       money += 5;
     }
     if(number == 7 && number2 == 7 && number3 == 7){
-      money += 100;
+      money += 1000;
     }
   }
   return (
@@ -55,7 +55,7 @@ function App() {
       }
       {number == 7 && number2 == 7 && number3 == 7 && money > 0
          ? (
-          <h2 id="biganim">BIIIIIIG WIIIIIIIN JACKPOT + 100 $</h2>
+          <h2 id="biganim">BIIIIIIG WIIIIIIIN JACKPOT + 1000 $</h2>
          )
          :( 
           <h2></h2> 
