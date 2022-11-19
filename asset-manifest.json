@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Casino-System/static/css/main.8bb16ba1.css",
+    "main.js": "/Casino-System/static/js/main.a1979432.js",
+    "index.html": "/Casino-System/index.html",
+    "main.8bb16ba1.css.map": "/Casino-System/static/css/main.8bb16ba1.css.map",
+    "main.a1979432.js.map": "/Casino-System/static/js/main.a1979432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb16ba1.css",
+    "static/js/main.a1979432.js"
+  ]
+}
